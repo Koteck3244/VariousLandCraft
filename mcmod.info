@@ -1,0 +1,18 @@
+[
+{
+  "modid": "VLCraft",
+  "name": "VariousLandCraft",
+  "description": "Add dimensions.\nAnd more.",
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "",
+  "version": "0.0.0",
+  "credits": "By Koteck3244",
+  "parent": "",
+  "authors": ["Koteck3244"],
+  "requiredMods": [],
+  "dependencies": [],
+  "dependants": [],
+  "useDependencyInformation": "false"
+}
+]
