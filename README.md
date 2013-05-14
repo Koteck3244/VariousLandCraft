@@ -1,4 +1,5 @@
 VariousLandCraft
 ================
 
-MINECRAFT MOD. Add dimensions. It may be intended for SMP if published.
+MINECRAFT MOD.<br>
+Add several dimensions- another overworld, nether etc.
